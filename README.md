@@ -10,7 +10,6 @@ Smart Contract based Supply Chain Management for Data Integrity and Anti-Tamperi
   <li> Frontend --> Reactjs and Ethers.js </li>
 </ul>
 
-#SCREENSHOTS
 
 <p>HOME PAGE </p>
 
